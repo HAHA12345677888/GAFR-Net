@@ -1,0 +1,9 @@
+﻿# GAFR-Net: Core Environment Requirements
+torch>=2.0.1
+torchvision
+torch-geometric
+networkx
+numpy
+opencv-python
+matplotlib
+scikit-learn
